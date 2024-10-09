@@ -5,6 +5,9 @@ Você foi contratado(a) para criar uma página web simples de uma receita de coz
 
 <img src="https://github.com/user-attachments/assets/cbf8fd5c-0bbe-4078-8c45-3c97868c05d9" alt="Receita 3" width="500px">
 
+[FIGMA](https://www.figma.com/design/xFS8VNZxnHjS83ekaDlTTx/Food-recipes-website-UI---Del%C3%ADcias-%C3%A0-Mesa-(Community)?node-id=0-1&node-type=canvas&t=oTAUZXbEa8XLF2AG-0)  
+
+
 ## ✅ Critérios de Aceitação
 
 **Estrutura HTML:**
