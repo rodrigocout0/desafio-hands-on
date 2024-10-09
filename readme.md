@@ -1,4 +1,4 @@
-## Desafio Hands On: **Página de Receita Simples**
+## Desafio Hands On: **Página de Receita**
 
 ## 📋 Descrição do Projeto
 Você foi contratado(a) para criar uma página web simples de uma receita de cozinha. O objetivo é praticar `HTML` e `CSS`, criando uma estrutura básica de página com estilos básicos aplicados.
@@ -10,23 +10,23 @@ Você foi contratado(a) para criar uma página web simples de uma receita de coz
 **Estrutura HTML:**
 
    - Crie uma página chamada `receita.html`.
-   - Insira um título para a página: "Receita: Bolo de Chocolate".
-   - Insira um cabeçalho principal (`h1`) com o nome da receita: "Bolo de Chocolate".
+   - Insira um título para a página: "Receita: Waffles".
+   - Adicione um menu de navegação com as seguintes opções: "Home", "Receitas" e "Sobre nós".
    - Crie uma seção para os **ingredientes**, utilizando uma lista não ordenada (`ul`), com pelo menos 5 ingredientes.
    - Crie uma seção para o **modo de preparo**, utilizando uma lista ordenada (`ol`), com pelo menos 5 etapas.
-   - Adicione um parágrafo final com uma dica extra para a receita: "Dica: Para deixar o bolo mais fofinho, bata bem os ovos antes de adicionar à massa."
+   - Crie um rodapé.
   
 **Estilização com CSS:**
-   - Crie um arquivo CSS chamado `styles.css` e vincule-o à página HTML.
-   - Aplique uma cor de fundo clara na página inteira.
-   - Centralize o texto do cabeçalho principal (`h1`).
-   - Deixe a fonte do texto da lista de ingredientes em negrito.
-   - Aplique um espaçamento maior entre as etapas do modo de preparo.
-   - A dica extra deve estar em itálico e de uma cor diferente do restante do texto.
+   - O cabeçalho deve ter uma cor de fundo clara (como amarelo).
+   - O logo "☕ Delícias à Mesa" deve estar à esquerda, seguido do menu de navegação centralizado.
+   - A imagem deve preencher a largura da tela (responsiva) e ter altura suficiente para destacar a receita.
+   - O texto "Waffles" deve ser centralizado e sobreposto à imagem.
+   - Os texto devem ser estilizados de forma a ficar visível, com espaçamento adequado entre os itens.
+  
 
  **Bônus:**
-   - Adicione uma imagem relacionada à receita (por exemplo, uma foto de um bolo de chocolate) logo abaixo do cabeçalho principal.
-   - A imagem deve ter um tamanho fixo de 300px de largura e estar centralizada na página.
+   - Coloque uma imagem centralizada relacionada à receita (ex: uma foto de waffles) abaixo do cabeçalho.
+   - A imagem deve estar centralizada na página.
 
 
 
