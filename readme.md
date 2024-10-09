@@ -3,6 +3,8 @@
 ## 📋 Descrição do Projeto
 Você foi contratado(a) para criar uma página web simples de uma receita de cozinha. O objetivo é praticar `HTML` e `CSS`, criando uma estrutura básica de página com estilos básicos aplicados.
 
+![Receita 3](https://github.com/user-attachments/assets/cbf8fd5c-0bbe-4078-8c45-3c97868c05d9)
+
 ## ✅ Critérios de Aceitação
 
 **Estrutura HTML:**
